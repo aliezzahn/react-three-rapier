@@ -2762,7 +2762,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-three/rapier-addons@npm:3.0.3, @react-three/rapier-addons@workspace:packages/react-three-rapier-addons":
+"@react-three/rapier-addons@npm:*, @react-three/rapier-addons@workspace:packages/react-three-rapier-addons":
   version: 0.0.0-use.local
   resolution: "@react-three/rapier-addons@workspace:packages/react-three-rapier-addons"
   dependencies:
@@ -2780,7 +2780,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@react-three/rapier@npm:1.2.1, @react-three/rapier@workspace:packages/react-three-rapier":
+"@react-three/rapier@npm:*, @react-three/rapier@npm:1.2.1, @react-three/rapier@workspace:packages/react-three-rapier":
   version: 0.0.0-use.local
   resolution: "@react-three/rapier@workspace:packages/react-three-rapier"
   dependencies:
@@ -4573,8 +4573,8 @@ __metadata:
     "@react-three/csg": "npm:1.1.5"
     "@react-three/drei": "npm:9.74.14"
     "@react-three/fiber": "npm:8.9.1"
-    "@react-three/rapier": "npm:1.2.1"
-    "@react-three/rapier-addons": "npm:3.0.3"
+    "@react-three/rapier": "npm:*"
+    "@react-three/rapier-addons": "npm:*"
     "@types/three": "npm:0.152.1"
     "@vitejs/plugin-react": "npm:4.0.3"
     leva: "npm:0.9.34"
